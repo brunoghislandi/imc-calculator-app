@@ -6,7 +6,7 @@
 
 #
 
-### Desenvolvido para a disciplina de Soluções WEB | UNISATC/SC
+### Desenvolvido para a disciplina de Soluções Mobile | UNISATC/SC
 
 #
 
