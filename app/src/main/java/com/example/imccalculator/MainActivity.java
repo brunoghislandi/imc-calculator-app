@@ -36,10 +36,7 @@ public class MainActivity extends AppCompatActivity {
         txtIMC = findViewById(R.id.txtIMC);
         txtClass = findViewById(R.id.txtClass);
 
-        if(!txtResultado.equals("")){
-            start();
-        }
-
+        start();
     }
 
     public void match(View view) {
